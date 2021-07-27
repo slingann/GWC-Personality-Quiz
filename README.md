@@ -25,3 +25,9 @@ From ages five to nine, I *loved* the Disney Fairies franchise! I own all of the
 - [Smoothie photo - Pixabay](https://cdn.pixabay.com/photo/2016/05/26/19/49/strawberry-smoothie-1418212_960_720.jpg) 
 - [Juice photo - Pixabay](https://cdn.pixabay.com/photo/2016/08/23/15/52/fresh-orange-juice-1614822_960_720.jpg)
 - [Soda photo - Pixabay](https://cdn.pixabay.com/photo/2017/09/12/04/42/soft-drink-2741251_960_720.jpg)
+
+### 🛠 Made With
+- Replit (IDE)
+- HTML
+- CSS
+- JavaScript

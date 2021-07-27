@@ -1,3 +1,5 @@
+# Personality Quiz (GWC SIP)
+
 ### 👩🏽‍💻 About the Project
 This is my Personality Quiz for the 2021 Girls Who Code Virtual Summer Immersion Program. I worked on this project for two days and used what I learned about HTML, CSS, and JavaScript during the program to create this quiz. This quiz is meant to entertain users/quiz takers. Quiz takers can find out which of six Disney Fairies characters they are by answering a series of questions!
 

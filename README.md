@@ -27,7 +27,4 @@ From ages five to nine, I *loved* the Disney Fairies franchise! I own all of the
 - [Soda photo - Pixabay](https://cdn.pixabay.com/photo/2017/09/12/04/42/soft-drink-2741251_960_720.jpg)
 
 ### 🛠 Made With
-- Replit (IDE)
-- HTML
-- CSS
-- JavaScript
+`Replit (IDE)` `HTML` `CSS` `JavaScript`

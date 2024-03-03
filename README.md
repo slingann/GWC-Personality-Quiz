@@ -4,7 +4,7 @@
 This is my Personality Quiz for the 2021 Girls Who Code Virtual Summer Immersion Program. I worked on this project for two days and used what I learned about `HTML`, `CSS`, and `JavaScript` during the program to create this quiz. This quiz is meant to entertain users/quiz takers. Quiz takers can find out which of six Disney Fairies characters they are by answering a series of questions!
 
 ### 💡 My Inspiration
-From ages five to nine, I *loved* the Disney Fairies franchise! I own all of the movies on DVD and have countless dolls of the characters in the franchise. As an avid personality quiz taker, I always enjoy taking quizes with themes such as old TV shows, movies, franchises, etc. as they bring back fond memories. I created a Disney Fairies-themed personality quiz to remind others who enjoyed the franchise of their positive experiences with it!
+From ages five to nine, I *loved* the Disney Fairies franchise! I own all of the movies on DVD and have countless dolls of the characters in the franchise. As an avid personality quiz taker, I always enjoy taking quizzes with themes such as old TV shows, movies, franchises, etc. as they bring back fond memories. I created a Disney Fairies-themed personality quiz to remind others who enjoyed the franchise of their positive experiences with it!
 
 ### 📸 Image Attributions
 - [Sitting cat photo - Pixabay](https://pixabay.com/photos/cat-kitten-pets-animals-housecat-2934720/)
